@@ -62,34 +62,10 @@ This application allows users to securely upload, organize, and access files and
 
 ---
 
-## 📂 Project Structure
-googledrive-project
-│
-├── backend
-│   ├── src
-│   │   ├── controllers
-│   │   ├── models
-│   │   ├── routes
-│   │   ├── middleware
-│   │   ├── config
-│   │   └── server.js
-│
-└── frontend
-├── src
-│   ├── components
-│   ├── pages
-│   ├── context
-│   └── App.jsx
-
-Code
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/yourusername/googledrive-project.git
 cd googledrive-project
 2️⃣ Backend Setup
 bash
@@ -141,7 +117,3 @@ MERN stack portfolio project
 
 AWS S3 integration project
 
-👨‍💻 Author
-Gagan Ram  
-Software Developer
-📧 Email: b.gaganram@gmail.com (gmail.com in Bing)
